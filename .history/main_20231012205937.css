@@ -1,0 +1,18 @@
+.navbar>a
+{
+    color: white !important;
+}
+.navbar-nav a
+{
+    color: white;
+}
+.background_cover image
+{
+    height: 100vh;
+    object-fit: cover;
+    margin-top: -80px;
+
+}
+.background_cover
+{
+}

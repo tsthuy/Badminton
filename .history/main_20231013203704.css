@@ -1,0 +1,20 @@
+.logo
+{
+    width: 300px;
+   position: absolute;
+   left: -26px;
+   top: 0;
+}
+.bg_img
+{
+    height: 100vh;
+    width: 100%;
+    margin-top: -56px;
+}
+
+.nav_center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

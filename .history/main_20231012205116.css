@@ -1,0 +1,12 @@
+.navbar>a
+{
+    color: white !important;
+}
+.navbar-nav a
+{
+    color: white;
+}
+.background_cover image
+{
+    object-fit: cover;
+}

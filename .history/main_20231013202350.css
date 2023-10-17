@@ -1,0 +1,12 @@
+.logo
+{
+    width: 300px;
+   position: absolute;
+   left: -26px;
+   top: 0;
+}
+.bg_img
+{
+    height: calc(100vh - 80px); 
+    width: 100%;
+}
